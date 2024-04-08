@@ -1,6 +1,2 @@
 This is the first project on git 3rd  commit TEST there afteramother
-From Git remote branch 1
-pushing from remote branch 2
-
-this is remote branch 3 push from
-Push from remote branch 1
+commited from main

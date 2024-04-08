@@ -1,1 +1,0 @@
-This is readFile 2 txt file

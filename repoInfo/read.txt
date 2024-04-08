@@ -1,1 +1,1 @@
-This isthe first project on git 3rd  commit
+This is the first project on git 3rd  commit

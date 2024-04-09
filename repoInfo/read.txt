@@ -6,3 +6,4 @@ commited from main
 
 
 readfile updated from loacl
+delete from mian
